@@ -1,0 +1,11 @@
+# Compiled Java files
+out/
+*.class
+
+# VS Code settings
+.vscode/
+
+# Local environment files
+.env
+.env.*
+!.env.example
